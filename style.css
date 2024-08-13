@@ -1,10 +1,14 @@
 * {
     margin: 0;
     padding: 0;
-
+    text-decoration: none;
 }
 
 .header{
     margin: 10px;
     padding-top: 20px;
+}
+
+.menu__items {
+    margin-left: 8px;
 }
